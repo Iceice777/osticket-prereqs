@@ -27,6 +27,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 -  VC_redist.x86.exe.
 -  MySQL 5.5.62 (MySQL-5.5.62-win32.msi)
 - Create the directory C:\PHP
+- https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD
 
 <h2>Installation Steps</h2>
 
@@ -84,7 +85,7 @@ Name Helpdesk
 Default email (receives email from customers)
 
 <p>
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://github-production-user-asset-6210df.s3.amazonaws.com/142127371/420714935-a3d237ca-01d0-4c5f-b29c-da0a684c5177.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250309%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20250309T234156Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=8cccacdc65b97cff178fd818b4180417c602f5193e980da88e30003215a38ad6&amp;X-Amz-SignedHeaders=host" width="296" height="166">
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://github-production-user-asset-6210df.s3.amazonaws.com/142127371/420714935-a3d237ca-01d0-4c5f-b29c-da0a684c5177.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250309%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20250309T234156Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=8cccacdc65b97cff178fd818b4180417c602f5193e980da88e30003215a38ad6&amp;X-Amz-SignedHeaders=host">
 </p>
 
 From the “osTicket-Installation-Files” folder, install HeidiSQL.
